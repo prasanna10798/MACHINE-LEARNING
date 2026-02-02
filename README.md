@@ -12,7 +12,6 @@ MENTOR: NEELA SANTHOSH
 
 ##DESCRIPTION(MIN 500 WORDS)
 
-##OUTPUT
 
 Machine Learning Algorithms from scratch
 Python implementation of Andrew Ng's course and other machine learning algorithms (not included in the course).
